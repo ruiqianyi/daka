@@ -14,6 +14,13 @@
 
 ## 功能特点
 
+<div align="center">
+  <img src="./assets/screenshot1.png" width="24%" />
+  <img src="./assets/screenshot2.png" width="24%" />
+  <img src="./assets/screenshot3.png" width="24%" />
+  <img src="./assets/screenshot4.png" width="24%" />
+</div>
+
 ### 📚 课程管理
 - 创建和管理多个课程
 - 记录课程名称、学员列表、总课时数
