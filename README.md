@@ -5,6 +5,13 @@
 
 一款轻量级的课程管理和学员打卡记录工具，帮助教师和培训机构轻松管理课程和学员的上课记录。
 
+## 下载安装
+
+当前应用正在 Google Play 封闭测试，需要先加入 Google 群组才能安装：
+
+1. 加入测试群组：https://groups.google.com/g/ruiqianyi
+2. 安装应用：https://play.google.com/store/apps/details?id=io.mybatis.classcheckin
+
 ## 功能特点
 
 ### 📚 课程管理
