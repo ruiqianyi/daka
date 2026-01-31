@@ -42,8 +42,7 @@
 
 我们非常重视您的隐私保护。本应用不收集、不上传任何个人数据，所有信息仅存储在您的设备本地。
 
-- [隐私政策（中文）](./PRIVACY_POLICY.md)
-- [Privacy Policy (English)](./PRIVACY_POLICY_EN.md)
+- [隐私政策](https://github.com/ruiqianyi/privacy-policies)
 
 ## 系统要求
 
@@ -51,7 +50,3 @@
 - **Android**: 9+
 - **Expo Go**: 最新版本
 
-
-## 许可证
-
-Apache License 2.0 - 详见 [LICENSE](./LICENSE) 文件
